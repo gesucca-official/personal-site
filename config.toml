@@ -1,0 +1,109 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 8
+theme = "portio"
+title = "Portio"
+
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Software"
+url = "#portfolio"
+weight = 3
+[[menu.main]]
+name = "Music"
+url = "#service"
+weight = 4
+[[menu.main]]
+name = "Writings"
+url = "#blog"
+weight = 5
+[[menu.main]]
+name = "Others"
+url = "#skills"
+weight = 6
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 7
+[[menu.main]]
+name = "Contacts"
+url = "#contact"
+weight = 8
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Software"
+url = "#portfolio"
+weight = 2
+[[menu.sitemap]]
+name = "Music"
+url = "#service"
+weight = 3
+[[menu.sitemap]]
+name = "Writings"
+url = "#blog"
+weight = 4
+[[menu.sitemap]]
+name = "Other Skills"
+url = "#skills"
+weight = 5
+[[menu.sitemap]]
+name = "Resume"
+url = "#resume"
+weight = 6
+[[menu.sitemap]]
+name = "Contacts"
+url = "#contact"
+weight = 7
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All right reserved copyright © Portio 2020"
+footerLogo = "images/contact/widget-logo.png"
+# We're using formspree.io for form handling, paste your formspree url below
+fabformURL  = "https://fabform.io/f/JpTXRUa"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "23 Khan Niketon, Grand Street, NYK."
+email = "hello@example.com"
+openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+phone = "+(448) 833 5272 332"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/"
+weight = 2
+[[params.social]]
+icon = "fa-pinterest-square"
+url = "https://www.pinterest.com/"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/"
+weight = 4
