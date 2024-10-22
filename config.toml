@@ -1,4 +1,4 @@
-baseURL = "https://gesucca-official.github.io/personal-site/"
+baseURL = "https://gesucca-official.github.io/"
 languageCode = "en-us"
 paginate = 8
 theme = "portio"
