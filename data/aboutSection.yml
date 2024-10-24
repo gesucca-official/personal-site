@@ -1,18 +1,18 @@
 ---
 enable: true
-topTitle: About
+topTitle:
 title: >
   ## About me
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Born in Florence back in '92. Outstanding software engineer and fearless musician, greedy reader and generous writer. 
+  
+  I despise hard work and stupidity in general, and I fully embrace pragmatism.
 content: >
-  ### I design and build ultimate things.
+  ### I solve problems you don't know you have --- in a way you don't understand
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
+  Yeah, that quote is not the freshest in town. 
+  Anyway, as a reasonably gifted man, blessed --- or cursed? --- with many talents, I always felt obligated to make full use of them all. 
+  You can browse a relevant part of my output right on this web page, so you can decide whether it's worth for you to collaborate with me.
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact

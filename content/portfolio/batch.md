@@ -4,7 +4,7 @@ date: 2023-06-15T12:13:40+00:00
 thumbnail: images/portfolio/batch.png
 service: Architecture and Development
 client: Private Company
-shortDescription: Architecture and development of a service that asynchronously manages batch jobs of various time-consuming programs through a REST API, with advanced in-depth error tracking and total modularity in chaining batches of programs and piping their outputs.
+shortDescription: Architecture and development of a service that asynchronously manages batch jobs of various time consuming programs through a REST API, with advanced in-depth error tracking and total modularity in chaining batches of programs and piping their outputs.
 challenge: The client wanted to freshen up their managing of batch job, which was a gigantic Windows BAT file called by all sorts of configurator applications, also adding the possibility to check outputs and logs for errors and making said items available through a REST API for web applications to consume. 
 solution: After failing to persuade them to use one of the various commercial solutions, I resigned to just create one from scratch which perfectly fit all the requirements down to every quirk.  
 skill:
