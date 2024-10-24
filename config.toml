@@ -2,7 +2,7 @@ baseURL = "https://gesucca-official.github.io/"
 languageCode = "en-us"
 paginate = 8
 theme = "portio"
-title = "Portio"
+title = "Simone Cipriani"
 
 # Main Menu
 [[menu.main]]
@@ -71,7 +71,7 @@ weight = 7
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright © Simone Cipriani 2025"
 footerLogo = "images/contact/widget-logo.png"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/JpTXRUa"
