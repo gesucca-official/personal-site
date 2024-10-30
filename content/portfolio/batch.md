@@ -8,7 +8,7 @@ shortDescription: Architecture and development of a service that asynchronously 
 challenge: The client wanted to freshen up their managing of batch job, which was a gigantic Windows BAT file called by all sorts of configurator applications, also adding the possibility to check outputs and logs for errors and making said items available through a REST API for web applications to consume. 
 solution: After failing to persuade them to use one of the various commercial solutions, I resigned to just create one from scratch which perfectly fit all the requirements down to every quirk.  
 skill:
-  - title: Java Spring Boot Framework
+  - title: Java (Spring Boot)
     percent: 80
   - title: SQL
     percent: 10

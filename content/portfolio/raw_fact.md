@@ -1,20 +1,20 @@
 ---
-title: Raw Factory
-date: 2024-10-01T12:13:40+00:00
+title: CAD and Engineering Automation
+date: 2022-05-01T12:13:40+00:00
 thumbnail: images/portfolio/raw_fact.png
-service: Full Product Managing 
+service: Architecture and Development
 client: Private Company
-shortDescription: Architecture, development and deployment of a software library and its related tools designed to work with some of the major frameworks (Angular, React and Vue.js), created with the goal of simplify managing relationships among interconnected data points in complex software applications. 
-challenge: My employer wanted a library that abstracts away the complexities of managing dependencies among interconnected entities in web based GUIs, to factor away that overhead and reduce the developing time or many similar products. 
-solution: I crafted an npm package that do just that by modeling data as nodes on a graph. I implemented it by extending the RxJS Library to manage node updates and API calls by importing a configuration file which can be easily managed by a CLI tool.
+shortDescription: Architecture and development of a customization for a widely-used CAD and modeling software, enabling users to automatically design and draw raw materials for components over their machined 2D schemes. 
+challenge: The client required a solution to drastically reduce the time spent manually designing raw materials for a specific set of components and to streamline their import into PLM software.
+solution: I developed software that identifies lines and splines of the target machined component in the 2D study drawing, allowing users to review proposed parameters, overlay the raw material on the model, and handle the import process.
 skill:
-  - title: TypeScript
-    percent: 70
-  - title: NodeJS and NPM
-    percent: 15
-  - title: AWS 
-    percent: 15
+  - title: C#
+    percent: 100
 ---
-This was somewhat fun, and a big headache at the same time. The original idea from the employer was to squeeze into a library all the common techniques that competent coders uses all the times to manage complex situations of interactive GUIs that continuously have to validate inputs and dependencies before triggering API calls. 
+The client’s workflow for designing raw materials and getting them into their PLM system was eating up way too much time. Every component required manual work just to prepare and import, so they wanted a way to speed up the process and get their engineers out of repetitive tasks.
 
-The employer fully intend to extract value from this effort by selling the library to other companies, as well as from its obvious use in the company itself. While I was --- and I still am --- dubious about the commercial potential of something like this, I worked towards the intended goal and delivered everything needed to reach it, from designing the software architecture to the final product landing page and everything in between.
+I built a tool that automatically picks out lines and splines in 2D study drawings of each machined component. Engineers can check and adjust parameters easily, then overlay the raw material on the model to make sure everything’s in place before importing. Once it’s good to go, the tool handles the PLM import in one go.
+
+Now, instead of burning hours on the basics, the team can knock out raw material designs and imports fast, with fewer errors. They’re free to spend time on the stuff that actually matters, and the workflow is a lot smoother.
+
+This project opened the way to a [much more ambitious one](../mmop).

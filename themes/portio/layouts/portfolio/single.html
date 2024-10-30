@@ -25,6 +25,7 @@
                 <div class="case-details-title">
                     <h1>{{ .Title }}</h1>
                 </div>
+{{ if .Params.client }}
                 <p>
                     {{ .Params.shortDescription }}
                 </p>
@@ -101,7 +102,7 @@
                     </div>
                 </section>
                 {{ end }}
-
+{{ end }}
                 {{ .Content }}
 
             </div>
