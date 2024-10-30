@@ -15,44 +15,95 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Bachelor’s Degree: Computer Science
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Corso di Laurea in Informatica, Università degli Studi di Firenze
+
+      - Never attended lessons
+
+      - Completed on time while working
+
+
+      Final Grade: 107
+    time: 2015-2018
   - content: >
-      #### Master in Arts
+      #### High School Diploma: Industrial Mechanical Engineering
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Indirizzo Meccanica, I.T.I.S. Tullio Buzzi, Prato
+      
+      - Never Repeated
+      
+      - Never got any Educational Debts
+      
+      
+      Final Grade: 88
+    time: 2006-2011
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Autonomous Consultant in Software Architecture
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Confidential Contractors
+      
+
+      Browse some of the projects I worked on in [their specific section](#portfolio). 
+
+    time: 2021-present
   - content: >
-      #### Aperture Science 
+      #### Full Stack (Spring Boot, Angular 2+) Senior Developer, de-facto CTO
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Baker Hughes (contractor)
+
+      - Architectural design for a migration of legacy Java application to a web-oriented paradigm.
+
+      - Design and development of REST APIs (Spring Boot and Hibernate).
+
+      - Design and development of complex front-end applications (Angular 2+, Angular Material).
+      
+      - Responsibility over VCS and building/deploying homemade system.
+
+    time: 2018-2021
   - content: >
-      #### ACME Inc. 
+      #### Full Stack (Java/C++/SQL) Senior Developer
+      
+      GE Oil & Gas (contractor)
+      
+      - Design and development of the whole compressors design automation tools ecosystem.
+      
+      - Maintenance of legacy Java (Swing) and C++ (NX UG 10) applications.
+      
+      - Involvement in project leadership and budgeting.
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+    time: 2016-2018
   - content: >
-      #### LexCorp 
+      #### C.A.D. and Engineering Automation Senior Developer
+      
+      GE Oil & Gas (contractor)
+      
+      - Design and development of Oracle SQL databases and Siemens NX UG 10 parametric sketches.
+      
+      - Design and testing of third parties Java (Swing) and C++ (NX UG 10) applications.
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+    time: 2015-2016
+  - content: >
+      #### C.A.D. Automation Junior Developer 
+      
+      GE Oil & Gas (contractor)
+      
+      - Development of Oracle SQL databases and NX UG 7.5/8 parametric sketches.
+      
+      - Quality Assurance Testing of third parties Java (Swing) and C++ (NX UG 7.5/8) tools.
+
+    time: 2012-2015
+  - content: >
+      #### 3D Modelling and C.A.D. Drafting 
+
+      BredaMenarinibus S.p.A. (contractor)
+      
+      
+      GE Oil & Gas (contractor)
+      
+      - 3D modelling and 2D drafting of line buses assemblies and components (NX UG 2, AutoCAD).
+      
+      - 3D modelling and 2D drafting of turboexpanders assemblies and components (NX UG 6).
+    time: 2011-2012
