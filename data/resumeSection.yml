@@ -2,12 +2,12 @@
 enable: true
 topTitle: My Resume
 title: >
-  ## My Expertises
+  ## Professional and educational history
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+  From starting as an industrial mechanical technician to evolving into a versatile software architect with a strong foundation in end-to-end solutions and a keen eye for crafting high-quality code.
+  
+  
+  Explore the experiences that have shaped me into the professional I am nowadays.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -50,31 +50,17 @@ experience:
 
     time: 2021-present
   - content: >
-      #### Full Stack (Spring Boot, Angular 2+) Senior Developer, de-facto CTO
+      #### Full Stack Senior Developer
 
       Baker Hughes (contractor)
-
+      
       - Architectural design for a migration of legacy Java application to a web-oriented paradigm.
 
-      - Design and development of REST APIs (Spring Boot and Hibernate).
-
-      - Design and development of complex front-end applications (Angular 2+, Angular Material).
-      
-      - Responsibility over VCS and building/deploying homemade system.
-
-    time: 2018-2021
-  - content: >
-      #### Full Stack (Java/C++/SQL) Senior Developer
-      
-      GE Oil & Gas (contractor)
-      
-      - Design and development of the whole compressors design automation tools ecosystem.
+      - Design and development of REST APIs (Spring Boot and Hibernate) and front-end applications (Angular 2+, Angular Material).
       
       - Maintenance of legacy Java (Swing) and C++ (NX UG 10) applications.
-      
-      - Involvement in project leadership and budgeting.
 
-    time: 2016-2018
+    time: 2016-2021
   - content: >
       #### C.A.D. and Engineering Automation Senior Developer
       
