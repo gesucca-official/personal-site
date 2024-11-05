@@ -1,36 +1,67 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Music Production
 title: >
-  ## Creative Services
+  ## Expressing my creativity
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+    Music has always been a core part of my life, but maybe not in the way you'd expect. 
+  
+    As a solo artist under the pseudonym *gesucca*, my love for shiny, colorful, and bleepy-bloopy sounds has inspired me to create numerous releases across a wide range of genres.
+  
+    Below, you’ll find a summary of my work --— everything, of course, is available on all major streaming platforms.
 service:
   - content: >
-      #### UI/UX Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+      ####why u hide this
+      
+      #### Entrando nella Terra
+      
+      Inspired by stoner rock and fueled by climate change anxiety, this EP features some serious heaviness. 
+      
+      - 2024
+      
+      - 3 songs
+      
+      - [Listen Now](https://open.spotify.com/album/0IMbuhAf3saQ04HXxkHME5?si=36OEx0G8TiaeKR93th4bXw)
+    image: images/service/entrando_nella_terra.png
   - content: >
-      #### Web Development 
+      ####why u hide this
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+      #### Gesuccaboy Color
+
+      Bleep-bloop, I'm a chiptune EP! Had so much fun recreating the Game Boy sounds with modern synths and bit crushers.
+      
+      - 2023
+
+      - 3 songs
+
+      - [Listen Now](https://open.spotify.com/album/5ne3T03HJl7Jzxohlw3h9V?si=0u-LIr9mSfyvyOc26G--6A)
+    image: images/service/gesuccaboy_color.png
   - content: >
-      #### Creative Design 
+      ####why u hide this
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+      #### FULL
+
+      Electronics and fatalism, a fascinating duo. Let yourself be transported to the dancefloor by this release!
+
+      - 2023
+
+      - 3 songs
+
+      - [Listen Now](https://open.spotify.com/album/3ah4IFyF1BxWl3W37Mde75?si=7UwdnByhQuOqvh_-pepAzA)
+    image: images/service/full.png
   - content: >
-      #### Branding
+      ####why u hide this
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
+      #### #govidovesei
+
+      When I went visiting a dear friend in Turin, that's what came back home with me. A very singular story...
+
+      - 2022
+
+      - Single
+
+      - [Listen Now](https://open.spotify.com/album/69n5Me0j3494wl98AzCNXV?si=gziv8aZbSsCQree65XtjDQ)
+    image: images/service/govidovesei.png
   - content: >
       #### UI/UX Design
 
