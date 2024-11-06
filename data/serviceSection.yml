@@ -2,7 +2,7 @@
 enable: true
 topTitle: Music Production
 title: >
-  ## Expressing my creativity
+    ## Expressing my creativity
 
     Music has always been a core part of my life, but maybe not in the way you'd expect. 
   
@@ -11,7 +11,88 @@ title: >
     Below, you’ll find a summary of my work --— everything, of course, is available on all major streaming platforms.
 service:
   - content: >
-      ####why u hide this
+      ####why u hide this     
+      
+      #### Sarà Romantico
+      
+      Da Disco Funk, Step 5. Rearranged, rerecorded, remastered!
+      
+      
+      *"Sarà romantico" dicevano...*
+      
+      - 2024
+      
+      - Single
+      
+      - [Listen Now](https://open.spotify.com/album/5PLXW0u3tnakD3oTCTHHAr?si=KxCoseZaSMW9QCgfz8zHSA)
+    image: images/service/rom.png
+  - content: >
+      ####why u hide this     
+      
+      #### Watch and Learn
+      
+      Da Disco Funk, Step 4. Rearranged, rerecorded, remastered!
+      
+      
+      *You watch and learn...*
+      
+      - 2024
+      
+      - Single
+      
+      - [Listen Now](https://open.spotify.com/album/5vNKi3nUrMRM3V3Vi39rGQ?si=1CuXxfg6Sr6EhWrZ_-cnyw)
+    image: images/service/oltre.png
+  - content: >
+      ####why u hide this     
+      
+      #### Petroleüm
+      
+      Da Disco Funk, Step 3. Rearranged, rerecorded, remastered!
+      
+      
+      *Credo che lei sia ubriaco...*
+      
+      - 2024
+      
+      - Single
+      
+      - [Listen Now](https://open.spotify.com/album/6POmaTrZsD3Bwa3AzRkWrV?si=o0I4_m-qRUu0jZRQY788OA)
+    image: images/service/potere.png
+  - content: >
+      ####why u hide this    
+      
+      
+      #### Whisky 'n Soda
+      
+      Da Disco Funk, Step 2. Rearranged, rerecorded, remastered!
+      
+      
+      *Anni fa lo bevevano.*
+      
+      - 2024
+      
+      - Single
+      
+      - [Listen Now](https://open.spotify.com/album/4b5txAL2nBGXBgoKnwqi0w?si=79WN2jAnSgi8onFtzvG4QA)
+    image: images/service/ws.png
+  - content: >
+      ####why u hide this     
+
+      #### Dirty Old Men
+
+      Da Disco Funk, Step 1. Rearranged, rerecorded, remastered!
+      
+      
+      *Summon the bitches!*
+
+      - 2024
+
+      - Single
+
+      - [Listen Now](https://open.spotify.com/album/5kvdW5MV9sv4NhG9GDdpcU?si=P7L9R1Q2QRWkORZPNh1vIg)
+    image: images/service/queens.png
+  - content: >
+      ####why u hide this     
       
       #### Entrando nella Terra
       
@@ -28,7 +109,7 @@ service:
 
       #### Gesuccaboy Color
 
-      Bleep-bloop, I'm a chiptune EP! Had so much fun recreating the Game Boy sounds with modern synths and bit crushers.
+      Bleep-bloop! Had so much fun recreating Game Boy sounds with synths and bit crushers.
       
       - 2023
 
@@ -52,25 +133,65 @@ service:
   - content: >
       ####why u hide this
 
+      #### Idee Ben Confuse
+
+      Blending revamped old tracks with fresh additions, I printed a snapshot of who I was at that time.
+
+      - 2022
+
+      - 10 songs
+
+      - [Listen Now](https://open.spotify.com/album/4glplSwRZeAq3qzm5RqAal?si=DzU6cgKbQRqkAdQYAo1ldA)
+    image: images/service/ibc.png
+  - content: >
+      ####why u hide this
+
+      #### Il Meta Me
+
+      Capturing a contemplative mood, I explored my softer side and distilled these two melancholic pieces.
+
+      - 2021
+
+      - 2 songs
+
+      - [Listen Now](https://open.spotify.com/album/73RXNemncOHT0Yjomb5S0h?si=KtxXyVwaST6SJt0wMIXeVg)
+    image: images/service/metame.png
+  - content: >
+      ####why u hide this
+
       #### #govidovesei
 
       When I went visiting a dear friend in Turin, that's what came back home with me. A very singular story...
 
-      - 2022
+      - 2021
 
       - Single
 
       - [Listen Now](https://open.spotify.com/album/69n5Me0j3494wl98AzCNXV?si=gziv8aZbSsCQree65XtjDQ)
     image: images/service/govidovesei.png
   - content: >
-      #### UI/UX Design
+      ####why u hide this
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+      #### Things I Thought
+
+      Instrumental madness. Quirky timbres and unpredictable tempo shifts. This record makes so little sense it’s simply beautiful.
+
+      - 2016
+
+      - 2 songs
+
+      - [Listen Now](https://open.spotify.com/album/1FcU32HQFKKJPBk49GvEZ8?si=UNKm3HpsSa-_I3FmecAZwA)
+    image: images/service/tit.png
   - content: >
-      #### Web Development
+      ####why u hide this
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+      #### SS Electro Rock
+
+      The one that started it all. I was just a young man alone with his Korg Kronos, what could go wrong? Find out!
+
+      - 2015
+
+      - 8 songs
+
+      - [Listen Now](https://open.spotify.com/album/2qjQr7S0hHobCZM28tzAyJ?si=s_ZSXJguQn6l6uKDhU2AVg)
+    image: images/service/ssel.png
