@@ -1,18 +1,16 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: What else?
 content: >
-  ## Why hire me for your next project?
+  ## The Right Mindset Conquers All Challenges
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  From fully renovating my house to adequately manage my financial assets, from crafting reliable software solutions to expressing my creativity through music and writing, all my work reflects a commitment to excellence and versatility. 
+  
+  
+  Thank you for exploring my portfolio.
+  
+  
+  If you're interested in collaborating, have questions, or simply want to connect, don't hesitate to reach out.
 
 image: images/skill/skill_image.jpg
-
-skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
 
