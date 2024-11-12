@@ -80,9 +80,9 @@ logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "Viale Galileo Galilei, Prato, ITALY"
-email = "comingsoon@example.com"
+email = "simone.cipriani.it@gmail.com"
 openingHours = "Monday to Friday - 9:00 to 18:00"
-phone = "+(039) COMING SOON"
+phone = "Ask for phone number over email."
 
 # Social icons
 [[params.social]]
